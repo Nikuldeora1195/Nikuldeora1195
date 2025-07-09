@@ -8,7 +8,9 @@
 
 
 🚀 What I Do
-🌱 Currently exploring Web Development and Open Source
+
+
+-🌱 Currently exploring Web Development and Open Source
 
 🤝 Collaborating with fellow learners and creators via TechGenz
 
