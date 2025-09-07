@@ -3,7 +3,7 @@
 
 -🤝 Collaborating with fellow learners and creators via TechGenz<br>
 
--📢 Unstop Campus Ambassador @ 2025<br>
+-📢 Google & Unstop Campus Ambassador @ 2025<br>
 
 -🎯 I love building small tools and web projects to solve real-world problems<-br>
 
